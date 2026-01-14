@@ -1,0 +1,7 @@
+MITRE ATT&CK Mapping Report
+===========================
+
+Date: 2026-01-12 12:17:46
+
+22/tcp open ssh -> Credential Access | Brute Force (T1110)
+80/tcp open http -> Initial Access | Exploit Public-Facing Application (T1190)
